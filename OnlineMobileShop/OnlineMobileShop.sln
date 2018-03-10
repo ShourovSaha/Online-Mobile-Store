@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMobileShop", "OnlineMobileShop\OnlineMobileShop.csproj", "{8D797494-ED9D-42DD-A3DF-560FC3C7C456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMobileShop.BusinessLayer", "OnlineMobileShop.BusinessLayer\OnlineMobileShop.BusinessLayer.csproj", "{171D762B-DB3F-41D8-AC55-8C91278E2A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMobileShop.DataLayer", "OnlineMobileShop.DataLayer\OnlineMobileShop.DataLayer.csproj", "{C007407E-2136-4531-8601-8D20FFFB605B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMobileShop.ViewLayer", "OnlineMobileShop.ViewLayer\OnlineMobileShop.ViewLayer.csproj", "{730885B1-F1AA-45C8-B1CF-49A50DCD7EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMobileShop.EntityLayer", "OnlineMobileShop.EntityLayer\OnlineMobileShop.EntityLayer.csproj", "{F29AE3D6-A0FB-4138-A4B2-07233859651A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D797494-ED9D-42DD-A3DF-560FC3C7C456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D797494-ED9D-42DD-A3DF-560FC3C7C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D797494-ED9D-42DD-A3DF-560FC3C7C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D797494-ED9D-42DD-A3DF-560FC3C7C456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171D762B-DB3F-41D8-AC55-8C91278E2A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171D762B-DB3F-41D8-AC55-8C91278E2A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171D762B-DB3F-41D8-AC55-8C91278E2A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171D762B-DB3F-41D8-AC55-8C91278E2A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C007407E-2136-4531-8601-8D20FFFB605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007407E-2136-4531-8601-8D20FFFB605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C007407E-2136-4531-8601-8D20FFFB605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007407E-2136-4531-8601-8D20FFFB605B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730885B1-F1AA-45C8-B1CF-49A50DCD7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730885B1-F1AA-45C8-B1CF-49A50DCD7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730885B1-F1AA-45C8-B1CF-49A50DCD7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730885B1-F1AA-45C8-B1CF-49A50DCD7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29AE3D6-A0FB-4138-A4B2-07233859651A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29AE3D6-A0FB-4138-A4B2-07233859651A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29AE3D6-A0FB-4138-A4B2-07233859651A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29AE3D6-A0FB-4138-A4B2-07233859651A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

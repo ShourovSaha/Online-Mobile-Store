@@ -1,0 +1,11 @@
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.BusinessLayer.dll
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.BusinessLayer.pdb
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\obj\Debug\OnlineMobileShop.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\obj\Debug\OnlineMobileShop.BusinessLayer.dll
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\obj\Debug\OnlineMobileShop.BusinessLayer.pdb
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.DataLayer.dll
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.EntityLayer.dll
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.ViewLayer.dll
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.DataLayer.pdb
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.EntityLayer.pdb
+C:\Users\shour\Documents\Visual Studio 2015\Projects\OnlineMobileShop\OnlineMobileShop.BusinessLayer\bin\Debug\OnlineMobileShop.ViewLayer.pdb

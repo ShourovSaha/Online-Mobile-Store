@@ -1,0 +1,124 @@
+﻿body {
+    /*overflow:hidden;*/
+}
+
+.center {
+    text-align: center;
+}
+
+.content-page {
+    width: 373px;
+    height: 610px;
+    position: absolute;
+    top: -288px;
+    bottom: -302px;
+    left: 0px;
+    right: 912px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.space {
+    margin-top: 20px;
+}
+
+.footer-position {
+    width: auto;
+    height: auto;
+    position: absolute;
+    overflow: hidden;
+    /*margin:0px;
+    padding:0px;*/
+    top: 600px;
+    bottom: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+.product-name {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.product-brand {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color:darkgrey;
+}
+
+.product-price {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    color:#ff0000;
+}
+
+.product-discountPrice {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    color: gray;
+}
+/*Product View*/
+.productView-ProductName {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color:darkgrey;
+}
+
+.productView-product-brand {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+     
+}
+
+.productView-product-price {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    color:#ff0000;
+}
+
+.productView-product-discountPrice {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    color: gray;
+}
+
+.productView-product-descriptionsPoints {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    
+    text-decoration-color: red;
+    color: gray;
+}
+
+
+.divDot1 {
+    color: gray;
+    border-bottom: 1px dashed;
+    margin-top: 20px;
+}
